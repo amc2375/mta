@@ -9,5 +9,5 @@ Relevant links:
 - [GTFS archive data since 2018](http://web.mta.info/developers/data/archives.html)
 - [Weekly fare data](http://web.mta.info/developers/fare.html)
 - [GTFS static overview from google](https://developers.google.com/transit/gtfs/)
-- [awesome transit repository of links] (https://github.com/CUTR-at-USF/awesome-transit/blob/master/README.md#gtfs-libraries)
+- [awesome transit repository of links](https://github.com/CUTR-at-USF/awesome-transit/blob/master/README.md#gtfs-libraries)
 
